@@ -909,7 +909,6 @@ public class TownyPlayerListener implements Listener {
 
 		} catch (NotRegisteredException e) {
 			// If not registered, it is most likely an NPC			
-		} catch (TownyException e) {
 		}
 		
 	}
